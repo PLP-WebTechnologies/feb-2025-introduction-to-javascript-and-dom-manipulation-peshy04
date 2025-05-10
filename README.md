@@ -68,6 +68,7 @@ HTML(index.html)
 
 JAVASCRIPT (script.js)
 
+
 // Function to change text content
 function changeText() {
     document.getElementById("dynamicText").textContent = "Text has been changed!";
